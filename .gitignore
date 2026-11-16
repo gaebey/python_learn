@@ -1,2 +1,2 @@
-/zed
-__pycache__
+.zed/
+__pycache__/
